@@ -90,8 +90,8 @@
 ## 📊 Performance Metrics
 
 <ul>
-  <li><strong>Train Accuracy:</strong> ~XX%</li>
-  <li><strong>Test Accuracy:</strong> ~XX%</li>
+  <li><strong>Train Accuracy:</strong> ~77.04%</li>
+  <li><strong>Test Accuracy:</strong> ~73.38%</li>
   <li><strong>Precision, Recall, and F1-score</strong> for deeper analysis.</li>
 </ul>
 
@@ -104,7 +104,7 @@
 ## 🎯 Usage
 
 <ul>
-  <li>Open <code>DiabetesPrediction.ipynb</code> in Jupyter Notebook.</li>
+  <li>Open <code>DiabetesPrediction.pynb</code> in Jupyter Notebook.</li>
   <li>Execute cells sequentially to preprocess data, train the model, and evaluate performance.</li>
   <li>Modify <code>new_patient</code> array to test with new data.</li>
 </ul>
