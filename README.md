@@ -7,7 +7,7 @@
 ## 📂 Project Structure
 
 <ul>
-  <li><strong>DiabetesPrediction.pynb</strong> - Jupyter Notebook with the complete model implementation.</li>
+  <li><strong>DiabetesPrediction.ipynb</strong> - Jupyter Notebook with the complete model implementation.</li>
   <li><strong>diabetes.csv</strong> - Dataset used for training and testing.</li>
   <li><strong>README.md</strong> - Documentation for the project.</li>
 </ul>
@@ -104,7 +104,7 @@
 ## 🎯 Usage
 
 <ul>
-  <li>Open <code>DiabetesPrediction.pynb</code> in Jupyter Notebook.</li>
+  <li>Open <code>DiabetesPrediction.ipynb</code> in Jupyter Notebook.</li>
   <li>Execute cells sequentially to preprocess data, train the model, and evaluate performance.</li>
   <li>Modify <code>new_patient</code> array to test with new data.</li>
 </ul>
