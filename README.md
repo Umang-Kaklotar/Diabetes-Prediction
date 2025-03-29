@@ -7,7 +7,7 @@
 ## 📂 Project Structure
 
 <ul>
-  <li><strong>DiabetesPrediction.ipynb</strong> - Jupyter Notebook with the complete model implementation.</li>
+  <li><strong>DiabetesPrediction.pynb</strong> - Jupyter Notebook with the complete model implementation.</li>
   <li><strong>diabetes.csv</strong> - Dataset used for training and testing.</li>
   <li><strong>README.md</strong> - Documentation for the project.</li>
 </ul>
